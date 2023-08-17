@@ -1,6 +1,18 @@
 object rosa {
 	
-	method gusto(peso) {
-		
+	method gusto(atributo) {
+	
 	}
+}
+
+object estefania {
+	
+}
+
+object luisa {
+	
+}
+
+object juan {
+	
 }
