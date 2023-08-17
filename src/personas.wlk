@@ -1,6 +1,6 @@
 object rosa {
 	
-	method gusto() {
+	method gusto(peso) {
 		
 	}
 }
