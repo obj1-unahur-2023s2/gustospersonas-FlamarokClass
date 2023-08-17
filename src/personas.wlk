@@ -1,0 +1,6 @@
+object rosa {
+	
+	method gusto() {
+		
+	}
+}
