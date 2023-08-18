@@ -3,8 +3,6 @@ import colores.*
 import materiales.*
 
 /* Archivo principal ("raiz") */
-
-
 object rosa {
 			
 	method leGusta(elemento) {
